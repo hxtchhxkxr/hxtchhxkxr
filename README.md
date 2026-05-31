@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+<h2>Algorithm</h2>
+
 <p>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hitchhiker)](https://solved.ac/hitchhiker/)
+  <a href="https://solved.ac/hitchhiker/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitchhiker">
+  </a>
 </p>
