@@ -1,4 +1,4 @@
-<h2>STACKS</h2>
+<h2>Stacks</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
