@@ -22,18 +22,3 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hitchhiker">
   </a>
 </p>
-
-<h2>GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hxtchhxkxr&show_icons=true">
-</p>
-
-<h2>GitHub Stats</h2> 
-
-<p> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hxtchhxkxr&show_icons=true&theme=tokyonight"/> 
-</p>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxtchhxkxr&layout=compact&theme=tokyonight"/> 
-</p>
