@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+<h2>자격증</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/ADsP-003366?style=for-the-badge&logoColor=white">
+</p>
+
 <h2>Algorithm</h2>
 
 <p>
