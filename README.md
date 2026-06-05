@@ -16,11 +16,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-<h2>자격증</h2>
+<h2>Certificates</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/ADsP-003366?style=for-the-badge&logoColor=white">
-</p>
+| 자격증 | 상태 |
+|----------|----------|
+| ADsP (데이터분석 준전문가) | 취득 |
+| SQLD (SQL 개발자) | 대기 |
+| 정보처리기사 | 필기 합격 |
 
 <h2>Algorithm</h2>
 
