@@ -1,5 +1,3 @@
-Stacks 아래에 Languages, Frameworks, Tools를 하위 항목으로 넣으면 다음과 같습니다.
-
 <h2>Stacks</h2>
 
 <h3>Languages</h3>
@@ -17,6 +15,12 @@ Stacks 아래에 Languages, Frameworks, Tools를 하위 항목으로 넣으면 �
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
+
+<h3>Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
 
 <h3>Tools</h3>
