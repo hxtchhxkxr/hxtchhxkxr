@@ -16,8 +16,6 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white">
 </p>
 
 <h3>Databases</h3>
