@@ -31,6 +31,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+<h2>Education</h2>
+
+| 기간 | 학교 / 교육과정 | 전공 / 상태 |
+| --- | --- | --- |
+| 2022.03 ~ 2026.08 | 상명대학교 서울캠퍼스 | 컴퓨터과학전공 · 졸업 |
+| 2026.05 ~ 2026.11 (예정) | 신한DS 금융SW 풀스택 개발자 양성과정 7기 | 수강 중 |
+
 <h2>Certificates</h2>
 
 | 자격증               | 취득일     |
