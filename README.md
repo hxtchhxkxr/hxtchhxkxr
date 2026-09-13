@@ -1,6 +1,6 @@
 <h2>Projects</h2>
 
-<h4><a href="https://github.com/hxtchhxkxr/cakeshop">Cakeshop</a></h3>
+<h4><a href="https://github.com/hxtchhxkxr/cakeshop">Cakeshop</a></h4>
 
 신한DS 부트캠프 1차 프로젝트  
 케이크 예약·주문 및 매장 운영 관리 웹 서비스
@@ -9,13 +9,14 @@
 - **Backend:** Java 21 · Spring Boot · Spring MVC · Spring Security · MyBatis
 - **Database / Storage:** MariaDB · Flyway · AWS S3
 
-<h4><a href="https://github.com/hxtchhxkxr/golf-coach-AI">Golf Coach AI</a></h3>
+<h4><a href="https://github.com/hxtchhxkxr/golf-coach-AI">Golf Coach AI</a></h4>
 
 상명대학교 캡스톤디자인 졸업프로젝트  
 AI 기반 골프 스윙 분석 및 맞춤형 코칭 모바일 앱
 
 - **Frontend:** Flutter · Dart
-- **Backend / AI:** Node.js · Express · Python · Flask · MediaPipe · MariaDB
+- **Backend / AI:** Node.js · Express · Python · Flask · MediaPipe
+- **Database:** MariaDB
 
 <h2>Stacks</h2>
 
