@@ -32,8 +32,9 @@ AI 기반 골프 스윙 분석 및 맞춤형 코칭 모바일 앱
 <h3>Frameworks</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 
 <h3>Databases</h3>
